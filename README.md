@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404 NOT FOUND</h1>
+<h1 align="center">{Your project name}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://404-not-found-page-abdullah.netlify.app/">
+    <a href="https://{your-demo-link.your-domain}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/mohammadabdullah8674/404page">
+    <a href="https://{your-url-to-the-solution}">
       Solution
     </a>
     <span> | </span>
@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://mohd-abdullah-personal-portfolio.vercel.app/)
-- GitHub [@your-username](https://github.com/mohammadabdullah8674/404page)
+- Website [your-website.com](https://{your-web-site-link})
+- GitHub [@your-username](https://{github.com/your-usermame})
 - Twitter [@your-twitter](https://{twitter.com/your-username})
